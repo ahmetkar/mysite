@@ -1,0 +1,2 @@
+# pythondjango
+python django deneme
